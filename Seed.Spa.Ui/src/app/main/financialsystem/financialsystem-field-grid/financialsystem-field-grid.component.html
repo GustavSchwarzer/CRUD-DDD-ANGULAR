@@ -1,0 +1,129 @@
+﻿<div class="gc-table-responsive pre-scrollable">
+<table class="table table-striped table-app">
+    <thead class="thead-inverse">
+    <tr>
+        <th width="1" class="text-center">Ações</th>
+        <th class="text-nowrap">
+          <span class="table-sort">
+            {{ vm.infos | traduction: 'name' }}
+            <a href='#' (click)='onOrderBy($event,"name")'><i class="fa fa-sort" aria-hidden="true"></i></a>
+          </span>
+        </th>
+        <th class="text-nowrap">
+          <span class="table-sort">
+            {{ vm.infos | traduction: 'month' }}
+            <a href='#' (click)='onOrderBy($event,"month")'><i class="fa fa-sort" aria-hidden="true"></i></a>
+          </span>
+        </th>
+        <th class="text-nowrap">
+          <span class="table-sort">
+            {{ vm.infos | traduction: 'year' }}
+            <a href='#' (click)='onOrderBy($event,"year")'><i class="fa fa-sort" aria-hidden="true"></i></a>
+          </span>
+        </th>
+        <th class="text-nowrap">
+          <span class="table-sort">
+            {{ vm.infos | traduction: 'closingDay' }}
+            <a href='#' (click)='onOrderBy($event,"closingDay")'><i class="fa fa-sort" aria-hidden="true"></i></a>
+          </span>
+        </th>
+        <th class="text-nowrap">
+          <span class="table-sort">
+            {{ vm.infos | traduction: 'monthCopy' }}
+            <a href='#' (click)='onOrderBy($event,"monthCopy")'><i class="fa fa-sort" aria-hidden="true"></i></a>
+          </span>
+        </th>
+        <th class="text-nowrap">
+          <span class="table-sort">
+            {{ vm.infos | traduction: 'yearCopy' }}
+            <a href='#' (click)='onOrderBy($event,"yearCopy")'><i class="fa fa-sort" aria-hidden="true"></i></a>
+          </span>
+        </th>
+        <th class="text-nowrap">
+          <span class="table-sort">
+            {{ vm.infos | traduction: 'generateExpenseCopy' }}
+            <a href='#' (click)='onOrderBy($event,"generateExpenseCopy")'><i class="fa fa-sort" aria-hidden="true"></i></a>
+          </span>
+        </th>
+    </tr>
+    <tr>
+        <th width="1" class="text-center"></th>
+        <th>
+          <span class="table-sort">
+            <grid-filter [(vm)]="vm" [show]="showFilters"  [pagination]="false" [navigationProp]="''" [type]="'string'" [fieldName]="'name'" (filter)="onFilter($event)"></grid-filter>
+          </span>
+        </th>
+        <th>
+          <span class="table-sort">
+            <grid-filter [(vm)]="vm" [show]="showFilters"  [pagination]="false" [navigationProp]="''" [type]="'int'" [fieldName]="'month'" (filter)="onFilter($event)"></grid-filter>
+          </span>
+        </th>
+        <th>
+          <span class="table-sort">
+            <grid-filter [(vm)]="vm" [show]="showFilters"  [pagination]="false" [navigationProp]="''" [type]="'int'" [fieldName]="'year'" (filter)="onFilter($event)"></grid-filter>
+          </span>
+        </th>
+        <th>
+          <span class="table-sort">
+            <grid-filter [(vm)]="vm" [show]="showFilters"  [pagination]="false" [navigationProp]="''" [type]="'int'" [fieldName]="'closingDay'" (filter)="onFilter($event)"></grid-filter>
+          </span>
+        </th>
+        <th>
+          <span class="table-sort">
+            <grid-filter [(vm)]="vm" [show]="showFilters"  [pagination]="false" [navigationProp]="''" [type]="'int'" [fieldName]="'monthCopy'" (filter)="onFilter($event)"></grid-filter>
+          </span>
+        </th>
+        <th>
+          <span class="table-sort">
+            <grid-filter [(vm)]="vm" [show]="showFilters"  [pagination]="false" [navigationProp]="''" [type]="'int'" [fieldName]="'yearCopy'" (filter)="onFilter($event)"></grid-filter>
+          </span>
+        </th>
+        <th>
+          <span class="table-sort">
+            <grid-filter [(vm)]="vm" [show]="showFilters"  [pagination]="false" [navigationProp]="''" [type]="'bool'" [fieldName]="'generateExpenseCopy'" (filter)="onFilter($event)"></grid-filter>
+          </span>
+        </th>
+    <tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let item of vm.filterResult">
+
+        <td class="text-center text-nowrap">
+        <button (click)="onEdit($event, item)"  *ngIf="showEdit" placement="top" title="Editar" class="btn btn-sm btn-primary">
+            <i class="icon icon-pencil"></i>
+        </button>
+        <button (click)="onDetails($event, item)"  *ngIf="showDetails" placement="top" title="Detalhes" class="btn btn-sm btn-default">
+            <i class="icon icon-info"></i>
+        </button>
+        <button (click)="onPrint($event, item)"  *ngIf="showPrint" placement="top" title="Imprimir" class="btn btn-sm btn-default">
+            <i class="icon icon-printer"></i>
+        </button>
+        <button (click)="onDeleteConfimation($event, item)" *ngIf="showDelete" placement="top" title="Excluir" class="btn btn-sm btn-danger">
+            <i class="icon icon-trash"></i>
+        </button>
+        </td>
+        <td>
+          <bind-custom [model]="item.name" [format]="'string'" [tag]="'span'" ></bind-custom>
+        </td>
+        <td>
+          <bind-custom [model]="item.month" [format]="'int'" [tag]="'span'" ></bind-custom>
+        </td>
+        <td>
+          <bind-custom [model]="item.year" [format]="'int'" [tag]="'span'" ></bind-custom>
+        </td>
+        <td>
+          <bind-custom [model]="item.closingDay" [format]="'int'" [tag]="'span'" ></bind-custom>
+        </td>
+        <td>
+          <bind-custom [model]="item.monthCopy" [format]="'int'" [tag]="'span'" ></bind-custom>
+        </td>
+        <td>
+          <bind-custom [model]="item.yearCopy" [format]="'int'" [tag]="'span'" ></bind-custom>
+        </td>
+        <td>
+          <bind-custom [model]="item.generateExpenseCopy" [format]="'bool'" [tag]="'span'" ></bind-custom>
+        </td>
+    </tr>
+    </tbody>
+</table>
+</div>

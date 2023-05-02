@@ -1,0 +1,40 @@
+﻿<div class="row">
+  <section class="col-md-6">
+    <div class='form-group'>
+      <label>{{ vm.infos | traduction:'month' }}</label>
+      <input type='text' class='form-control'  [(ngModel)]='vm.modelFilter.month' name='month' />
+    </div>
+  </section>
+  <section class="col-md-6">
+    <div class='form-group'>
+      <label>{{ vm.infos | traduction:'year' }}</label>
+      <input type='text' class='form-control'  [(ngModel)]='vm.modelFilter.year' name='year' />
+    </div>
+  </section>
+  <section class="col-md-6">
+    <div class='form-group'>
+      <label>{{ vm.infos | traduction:'closingDay' }}</label>
+      <input type='text' class='form-control'  [(ngModel)]='vm.modelFilter.closingDay' name='closingDay' />
+    </div>
+  </section>
+  <section class="col-md-6">
+    <div class='form-group'>
+      <label>{{ vm.infos | traduction:'monthCopy' }}</label>
+      <input type='text' class='form-control'  [(ngModel)]='vm.modelFilter.monthCopy' name='monthCopy' />
+    </div>
+  </section>
+  <section class="col-md-6">
+    <div class='form-group'>
+      <label>{{ vm.infos | traduction:'yearCopy' }}</label>
+      <input type='text' class='form-control'  [(ngModel)]='vm.modelFilter.yearCopy' name='yearCopy' />
+    </div>
+  </section>
+  <section class="col-md-6">
+    <label>{{ vm.infos | traduction:'generateExpenseCopy' }}</label>
+<div class='form-group'>
+    <label class='radio-inline'><input type='radio' name='generateExpenseCopy' [(ngModel)]='vm.modelFilter.generateExpenseCopy'> Todos</label>
+    <label class='radio-inline'><input type='radio' name='generateExpenseCopy' [(ngModel)]='vm.modelFilter.generateExpenseCopy' value='true'> Sim</label>
+    <label class='radio-inline'><input type='radio' name='generateExpenseCopy' [(ngModel)]='vm.modelFilter.generateExpenseCopy' value='false'> Não</label>
+</div>
+  </section>
+</div>

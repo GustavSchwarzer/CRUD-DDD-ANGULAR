@@ -1,0 +1,407 @@
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;Sample;FilePath;File Path
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;Sample;SampleId;Sample
+pt-BR;Sample;Name;Name
+pt-BR;Sample;Descricao;Descricao
+pt-BR;Sample;SampleTypeId;Sample Type
+pt-BR;Sample;Ativo;Ativo
+pt-BR;Sample;Age;Age
+pt-BR;Sample;Category;Category
+pt-BR;Sample;Datetime;Datetime
+pt-BR;Sample;Tags;Tags
+pt-BR;Sample;FilePath;File Path
+pt-BR;SampleType;SampleTypeId;Sample Type
+pt-BR;SampleType;Name;Name
+pt-BR;SampleItem;SampleItemId;Sample Item
+pt-BR;SampleItem;Value;Value
+pt-BR;SampleItem;SampleId;Sample
+pt-BR;FinancialSystem;FinancialSystemId;Financial System
+pt-BR;FinancialSystem;Month;Month
+pt-BR;FinancialSystem;Year;Year
+pt-BR;FinancialSystem;ClosingDay;Closing Day
+pt-BR;FinancialSystem;GenerateExpenseCopy;Generate Expense Copy
+pt-BR;FinancialSystem;MonthCopy;Month Copy
+pt-BR;FinancialSystem;YearCopy;Year Copy
+pt-BR;FinancialSystem;Name;Name

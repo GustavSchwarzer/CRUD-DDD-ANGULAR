@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from './default-footer/default-footer.component';\nexport * from './default-header/default-header.component'; //export * from './default-layout.component';","map":null,"metadata":{},"sourceType":"module"}

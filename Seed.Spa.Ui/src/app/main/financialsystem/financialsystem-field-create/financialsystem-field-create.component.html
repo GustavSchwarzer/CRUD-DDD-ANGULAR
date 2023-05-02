@@ -1,0 +1,53 @@
+﻿<div class="row " [formGroup]="vm.form">
+  <section class="col-md-12"  >
+    <div class='form-group'>
+      <label>{{ vm.infos | traduction:'name' }}</label>
+      <textarea class='form-control'  [(ngModel)]='vm.model.name' name='name' required rows='5' formControlName='name' ></textarea>
+    </div>
+  </section>
+
+  <section class="col-md-12"  >
+    <div class='form-group'>
+      <label>{{ vm.infos | traduction:'month' }}</label>
+      <input type='text' class='form-control' [(ngModel)]='vm.model.month' name='month' required formControlName='month'  maski='9999999999'  autocomplete='off'/>
+    </div>
+  </section>
+
+  <section class="col-md-12"  >
+    <div class='form-group'>
+      <label>{{ vm.infos | traduction:'year' }}</label>
+      <input type='text' class='form-control' [(ngModel)]='vm.model.year' name='year' required formControlName='year'  maski='9999999999'  autocomplete='off'/>
+    </div>
+  </section>
+
+  <section class="col-md-12"  >
+    <div class='form-group'>
+      <label>{{ vm.infos | traduction:'closingDay' }}</label>
+      <input type='text' class='form-control' [(ngModel)]='vm.model.closingDay' name='closingDay' required formControlName='closingDay'  maski='9999999999'  autocomplete='off'/>
+    </div>
+  </section>
+
+  <section class="col-md-12"  >
+    <div class='form-group'>
+      <label>{{ vm.infos | traduction:'monthCopy' }}</label>
+      <input type='text' class='form-control' [(ngModel)]='vm.model.monthCopy' name='monthCopy' required formControlName='monthCopy'  maski='9999999999'  autocomplete='off'/>
+    </div>
+  </section>
+
+  <section class="col-md-12"  >
+    <div class='form-group'>
+      <label>{{ vm.infos | traduction:'yearCopy' }}</label>
+      <input type='text' class='form-control' [(ngModel)]='vm.model.yearCopy' name='yearCopy' required formControlName='yearCopy'  maski='9999999999'  autocomplete='off'/>
+    </div>
+  </section>
+
+  <section class="col-md-12"  >
+    <div class='checkbox pt-4'>
+      <label>
+          <input type='checkbox'  [(ngModel)]='vm.model.generateExpenseCopy'  name='generateExpenseCopy' formControlName='generateExpenseCopy'  /> {{ vm.infos | traduction:"generateExpenseCopy" }}?
+      </label>
+    </div>
+  </section>
+
+</div>
+

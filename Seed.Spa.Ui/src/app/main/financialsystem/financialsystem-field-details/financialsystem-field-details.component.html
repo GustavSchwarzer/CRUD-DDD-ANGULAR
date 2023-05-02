@@ -1,0 +1,34 @@
+﻿<dl>
+    <dt>{{ vm.infos | traduction: 'name' }}:</dt>
+    <dd><bind-custom [model]="vm.details.name" [format]="'string'" [tag]="'span'" ></bind-custom></dd>
+ 
+
+    <dt>{{ vm.infos | traduction: 'financialSystemId' }}:</dt>
+    <dd><bind-custom [model]="vm.details.financialSystemId" [format]="'int'" [tag]="'span'" ></bind-custom></dd>
+ 
+
+    <dt>{{ vm.infos | traduction: 'month' }}:</dt>
+    <dd><bind-custom [model]="vm.details.month" [format]="'int'" [tag]="'span'" ></bind-custom></dd>
+ 
+
+    <dt>{{ vm.infos | traduction: 'year' }}:</dt>
+    <dd><bind-custom [model]="vm.details.year" [format]="'int'" [tag]="'span'" ></bind-custom></dd>
+ 
+
+    <dt>{{ vm.infos | traduction: 'closingDay' }}:</dt>
+    <dd><bind-custom [model]="vm.details.closingDay" [format]="'int'" [tag]="'span'" ></bind-custom></dd>
+ 
+
+    <dt>{{ vm.infos | traduction: 'monthCopy' }}:</dt>
+    <dd><bind-custom [model]="vm.details.monthCopy" [format]="'int'" [tag]="'span'" ></bind-custom></dd>
+ 
+
+    <dt>{{ vm.infos | traduction: 'yearCopy' }}:</dt>
+    <dd><bind-custom [model]="vm.details.yearCopy" [format]="'int'" [tag]="'span'" ></bind-custom></dd>
+ 
+
+    <dt>{{ vm.infos | traduction: 'generateExpenseCopy' }}:</dt>
+    <dd><bind-custom [model]="vm.details.generateExpenseCopy" [format]="'bool'" [tag]="'span'" ></bind-custom></dd>
+ 
+
+</dl> 
